@@ -1,0 +1,11 @@
+,Pooled coefficient,Average individual coefficient,SD across respondents,Median individual SE
+const,3.388,3.388,2.202,1.141
+price,-0.008,-0.008,0.014,0.007
+exterior_2,-0.595,-0.595,1.054,0.467
+exterior_3,-0.706,-0.706,1.234,0.43
+exterior_4,-0.11,-0.11,0.637,0.43
+size_2,-0.307,-0.307,0.676,0.295
+strap_pad_2,0.253,0.253,0.508,0.3
+pocket_2,0.17,0.17,0.378,0.295
+interior_2,0.52,0.52,0.513,0.381
+interior_3,0.877,0.877,0.793,0.361
